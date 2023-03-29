@@ -1,0 +1,6 @@
+D:\Study - Work\TKSolution\Thuc_Tap\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_Controller\obj\Debug\TKS_Thuc_Tap_Controller.csproj.AssemblyReference.cache
+D:\Study - Work\TKSolution\Thuc_Tap\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_Controller\obj\Debug\TKS_Thuc_Tap_Controller.csproj.CoreCompileInputs.cache
+D:\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_Controller\obj\Debug\TKS_Thuc_Tap_Controller.csproj.AssemblyReference.cache
+D:\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_Controller\obj\Debug\TKS_Thuc_Tap_Controller.csproj.CoreCompileInputs.cache
+D:\THỰC TẬP\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_Controller\obj\Debug\TKS_Thuc_Tap_Controller.csproj.AssemblyReference.cache
+D:\THỰC TẬP\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_Controller\obj\Debug\TKS_Thuc_Tap_Controller.csproj.CoreCompileInputs.cache

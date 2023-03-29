@@ -1,0 +1,20 @@
+D:\Study - Work\TKSolution\Thuc_Tap\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_DataLayer\obj\Debug\TKS_Thuc_Tap_DataLayer.csproj.AssemblyReference.cache
+D:\Study - Work\TKSolution\Thuc_Tap\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_DataLayer\obj\Debug\TKS_Thuc_Tap_DataLayer.csproj.CoreCompileInputs.cache
+D:\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_DataLayer\bin\Debug\TKS_Thuc_Tap_DataLayer.dll
+D:\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_DataLayer\bin\Debug\TKS_Thuc_Tap_DataLayer.pdb
+D:\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_DataLayer\bin\Debug\TKS_Thuc_Tap_Utility.dll
+D:\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_DataLayer\bin\Debug\TKS_Thuc_Tap_Utility.pdb
+D:\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_DataLayer\obj\Debug\TKS_Thuc_Tap_DataLayer.csproj.AssemblyReference.cache
+D:\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_DataLayer\obj\Debug\TKS_Thuc_Tap_DataLayer.csproj.CoreCompileInputs.cache
+D:\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_DataLayer\obj\Debug\TKS_Thuc_Tap_DataLayer.csproj.CopyComplete
+D:\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_DataLayer\obj\Debug\TKS_Thuc_Tap_DataLayer.dll
+D:\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_DataLayer\obj\Debug\TKS_Thuc_Tap_DataLayer.pdb
+D:\THỰC TẬP\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_DataLayer\bin\Debug\TKS_Thuc_Tap_DataLayer.dll
+D:\THỰC TẬP\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_DataLayer\bin\Debug\TKS_Thuc_Tap_DataLayer.pdb
+D:\THỰC TẬP\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_DataLayer\bin\Debug\TKS_Thuc_Tap_Utility.dll
+D:\THỰC TẬP\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_DataLayer\bin\Debug\TKS_Thuc_Tap_Utility.pdb
+D:\THỰC TẬP\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_DataLayer\obj\Debug\TKS_Thuc_Tap_DataLayer.csproj.AssemblyReference.cache
+D:\THỰC TẬP\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_DataLayer\obj\Debug\TKS_Thuc_Tap_DataLayer.csproj.CoreCompileInputs.cache
+D:\THỰC TẬP\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_DataLayer\obj\Debug\TKS_Thuc_Tap_DataLayer.csproj.CopyComplete
+D:\THỰC TẬP\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_DataLayer\obj\Debug\TKS_Thuc_Tap_DataLayer.dll
+D:\THỰC TẬP\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_DataLayer\obj\Debug\TKS_Thuc_Tap_DataLayer.pdb

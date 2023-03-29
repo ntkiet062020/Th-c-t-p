@@ -1,0 +1,6 @@
+D:\Study - Work\TKSolution\Thuc_Tap\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_Report\obj\Debug\TKS_Thuc_Tap_Report.csproj.AssemblyReference.cache
+D:\Study - Work\TKSolution\Thuc_Tap\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_Report\obj\Debug\TKS_Thuc_Tap_Report.dll.licenses
+D:\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_Report\obj\Debug\TKS_Thuc_Tap_Report.csproj.AssemblyReference.cache
+D:\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_Report\obj\Debug\TKS_Thuc_Tap_Report.dll.licenses
+D:\THỰC TẬP\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_Report\obj\Debug\TKS_Thuc_Tap_Report.csproj.AssemblyReference.cache
+D:\THỰC TẬP\Implement\TKS_Thuc_Tap\TKS_Thuc_Tap_Report\obj\Debug\TKS_Thuc_Tap_Report.dll.licenses
